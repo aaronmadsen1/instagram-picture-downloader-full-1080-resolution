@@ -6,16 +6,16 @@ let picNum = 0
 let string = ""
 let formattedString
 let currentUrl
-let vpnSwitchlimit = 1
-let timeoutFloor = 3146
+let timeoutFloor = 1846
 let timeoutWidth = 2152
+let vpnSwitchlimit = 1
 let numPicsBeforeVpnSwitch = 125
 let countdownStartTime = 50
 
 // timeoutFloor = 2734
 // timeoutWidth = 1209
 // numPicsBeforeVpnSwitch = 100
-// countdownStartTime = 30
+// countdownStartTime = 50
 
 // Go to next picture  ***********************************************************************
 function nextPicture() {
